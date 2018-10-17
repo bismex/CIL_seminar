@@ -5,3 +5,8 @@ https://arxiv.org/pdf/1807.06514
 
 2. CBAM: Convolutional block attention module
 http://openaccess.thecvf.com/content_ECCV_2018/papers/Sanghyun_Woo_Convolutional_Block_Attention_ECCV_2018_paper.pdf
+
+### **Group Normalization**
+* Authors : Yuxin Wu, Kaiming He
+* Link : ECCV2018. [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yuxin_Wu_Group_Normalization_ECCV_2018_paper.pdf)]
+* A simple alternative to BN, independent of batch sizes, comparable performance
